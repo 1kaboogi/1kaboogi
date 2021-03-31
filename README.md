@@ -4,7 +4,7 @@ I am currently a high school student interested in the field of computer science
 
 - 🌱 I’m currently working on private repositories
 - 😆 I’m looking to collaborate with other people
-- ⚡ Fun fact: I love to run, hike, and bike!
+- ⚡ Fun fact: I love to run, play tennis, and bike!
 
 <i> "Strive for continuous improvement, instead of perfection" - Kim Collins </i>
 
