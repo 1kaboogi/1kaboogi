@@ -25,6 +25,6 @@ I am currently a high school student interested in the field of computer science
 <details>
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Daniel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mc2021&show_icons=true&hide_border=true" />
+<img align="left" alt="Daniel's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=1kaboogi&show_icons=true&hide_border=true" />
 
 </details>
